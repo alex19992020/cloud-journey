@@ -13,9 +13,14 @@ options for my family.
 - Set up GitHub + LinkedIn for cloud visibility
 - Wrote this public proof log
 - Next up: S3 + IAM “Public Access Problem” lab
-- 
+  
+**Week 2 - Public Access Problem Project
+- Identify permission misconfigurations
+- Write least-privilege S3 bucket policies
+- Confirm security + availability balance
+  
 **Projects (live/soon)**
-(whatever projects or workshops you will do)
+-Public Access Problem Project
 
 **How I document**
 Each project includes: problem → approach → commands/code → screenshots →
