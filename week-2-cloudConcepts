@@ -1,0 +1,23 @@
+#Learned about IAM fundamentals
+Learned about identity and access management. How it answers Who you are? and What can you do?
+Learned the 3 IAM peices:
+  Users-who you are
+  Roles-who your acting as
+  Policies-What can you access
+
+#Created IAM users
+Learned how you should never really use root user for daily work so I created my first IAM admin user
+First logged into my root to create IAM user, enabled AWS console access, Attached adminAccess policy.
+
+#Created EC2 Instance
+Logging into my IAM user, I dipped my hands and created my first EC2 instance where I learned how to configure the IP address to show our webpage.
+I also learned how to connect to my new instance to manipulate my index.html file using the AWS console.
+
+#Created a S3 Static website
+I started setting up my static website in the cloud which will become my personal cloud portfolio where I will display my projects.
+Created my bucket, uploaded my html files and logo for my portfolio
+Gave my bucket the neccessary permissions by giving it a policy
+Deployed my static website and have my public URL to share with others
+
+
+
